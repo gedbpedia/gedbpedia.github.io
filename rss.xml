@@ -10,7 +10,21 @@
       <title>GEDbpedia - online global encyclopedic database</title>
       <link>https://gedbpedia.github.io/</link>
       <description>GEDbpedia - is an online free encyclopedia database (similar to IMDb and Wikipedia), that provides facts and articles with pictures, videos, and images. And can offer information about celebrities and people, books, movies and television shows, and much more.</description>
-      <pubDate>Sun, 29 Mar 2020 10:19:00 Z</pubDate>
+      <pubDate>Mon, 13 Apr 2020 04:52:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://gedbpedia.github.io/people</guid>
+      <title>People | GEDbpedia</title>
+      <link>https://gedbpedia.github.io/people</link>
+      <description>List of available articles about notable people on GEDbpedia </description>
+      <pubDate>Mon, 13 Apr 2020 04:52:00 Z</pubDate>
+    </item>
+     <item>
+      <guid>https://gedbpedia.github.io/person/zeke-taylor</guid>
+      <title>Zeke Taylor Facts, Personal Life &amp; Biography</title>
+      <link>https://gedbpedia.github.io/person/zeke-taylor</link>
+      <description>Zeke Taylor (born December 29, 2005) is an American actor and internet personality from Arkansas.</description>
+      <pubDate>Mon, 13 Apr 2020 04:52:00 Z</pubDate>
     </item>
   </channel>
 </rss>
