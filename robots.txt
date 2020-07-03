@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Allow: /sitemap.htm
 Sitemap: https://gedbpedia.github.io/sitemap.xml
