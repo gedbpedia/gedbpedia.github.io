@@ -10,21 +10,34 @@
       <title>GEDbpedia - online global encyclopedic database</title>
       <link>https://gedbpedia.github.io/</link>
       <description>GEDbpedia - is an online free encyclopedia database (similar to IMDb and Wikipedia), that provides facts and articles with pictures, videos, and images. And can offer information about celebrities and people, books, movies and television shows, and much more.</description>
-      <pubDate>Mon, 13 Apr 2020 04:52:00 Z</pubDate>
+      <pubDate>Fri, 03 Jul 2020 16:46:28 +0000</pubDate>
     </item>
     <item>
       <guid>https://gedbpedia.github.io/people</guid>
       <title>People | GEDbpedia</title>
       <link>https://gedbpedia.github.io/people</link>
       <description>List of available articles about notable people on GEDbpedia </description>
-      <pubDate>Mon, 13 Apr 2020 04:52:00 Z</pubDate>
+      <pubDate>Fri, 03 Jul 2020 16:46:28 +0000</pubDate>
+    </item>
+    <item>
+      <guid>https://gedbpedia.github.io/movies-and-tv</guid>
+      <title>Movies and TV Shows | GEDbpedia</title>
+      <link>https://gedbpedia.github.io/movies-and-tv</link>
+      <description>List of available articles about various movies, television series, web series, and television programs on GEDbpedia</description>
+      <pubDate>Fri, 03 Jul 2020 16:46:28 +0000</pubDate>
+    </item>
+    <item>
+      <guid>https://gedbpedia.github.io/filmtv/merman-academy-the-movie</guid>
+      <title>Merman Academy: The Movie (2020 film) - GEDbpedia</title>
+      <description>Merman Academy: The Movie is a 2020 American comedy/fantasy/family film written, directed, produced, and edited by Zeke Taylor and Jabari Leggette. It stars Zeke Taylor, Immoney Cooper, Jabari Leggette, Earnest Harper, and Malachi Taylor, and is narrated by Zeke Taylor. Merman Academy: The Movie was globally released on June 24th, 2020 by Balckflix Productions.</description>
+      <pubDate>Fri, 03 Jul 2020 16:46:28 +0000</pubDate>
     </item>
      <item>
       <guid>https://gedbpedia.github.io/person/zeke-taylor</guid>
-      <title>Zeke Taylor Facts, Personal Life &amp; Biography</title>
+      <title>Zeke Taylor (American actor and internet personality) - GEDbpedia</title>
       <link>https://gedbpedia.github.io/person/zeke-taylor</link>
       <description>Zeke Taylor (born December 29, 2005) is an American actor and internet personality from Arkansas.</description>
-      <pubDate>Mon, 13 Apr 2020 04:52:00 Z</pubDate>
+      <pubDate>Fri, 03 Jul 2020 16:46:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
