@@ -27,7 +27,10 @@
   </url>
   <url>
     <loc>https://gedbpedia.github.io/person/zeke-taylor</loc>
-    <lastmod>2020-07-03</lastmod>
+    <lastmod>2020-07-12</lastmod>
+    <image:image>
+      <image:loc>https://gedbpedia.github.io/person/zeke%20taylor.jpg</image:loc>
+    </image:image>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
