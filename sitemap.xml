@@ -9,7 +9,7 @@
   </url>
   <url>
     <loc>https://gedbpedia.github.io/people</loc>
-    <lastmod>2020-07-03</lastmod>
+    <lastmod>2020-08-02</lastmod>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,6 +30,15 @@
     <lastmod>2020-07-12</lastmod>
     <image:image>
       <image:loc>https://gedbpedia.github.io/person/zeke%20taylor.jpg</image:loc>
+    </image:image>
+    <changefreq>always</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://gedbpedia.github.io/person/arturo-duarte</loc>
+    <lastmod>2020-08-02</lastmod>
+    <image:image>
+      <image:loc>https://gedbpedia.github.io/person/Arturo%20Duarte.jpeg</image:loc>
     </image:image>
     <changefreq>always</changefreq>
     <priority>1.0</priority>
